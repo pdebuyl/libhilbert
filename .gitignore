@@ -1,0 +1,14 @@
+*~
+*.a
+*.la
+*.o
+*.so
+*.lo
+Makefile
+config.log
+config.status
+include/Makefile
+libtool
+src/.deps/
+src/.libs/
+src/Makefile
